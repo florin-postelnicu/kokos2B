@@ -27,7 +27,7 @@ the first three numbers are something between 0-255 (RGB), and the last number i
 so think of your color as something like:
 color=(RED,GREEN, BLUE, ALPHA)
 Note
-Check on line for a code-colors list
+Check online for a code-colors list
 
 '''
 import cocos
