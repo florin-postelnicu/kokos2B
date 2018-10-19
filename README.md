@@ -1,4 +1,4 @@
 # kokos2B
 All programs are done in cocos2D Python, with pyglet support
 
-For koksotobe05.py you need to use the spshipsprite.png, and the HDjmaHg.jfg picture
+For kokostobe05.py you need to use the spshipsprite.png, and the HDjmaHg.jfg picture
