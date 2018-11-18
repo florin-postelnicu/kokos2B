@@ -1,3 +1,13 @@
+'''
+The background is a map created with Tiled Map Editor,
+model2.tmx
+The map is saved as a CSV file.
+The layers in the map can be accessed through their names ; "ground", "trees", "water"
+
+'''
+
+
+
 import cocos
 from cocos.director import director
 import pyglet
